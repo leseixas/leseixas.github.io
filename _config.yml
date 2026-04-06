@@ -22,8 +22,8 @@ repository               : "leseixas/leseixas.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Menu"
+  avatar           : "leandro_seixa.jpg"
+  name             : "Leandro Seixas"
   pronouns         : "he/him"
   bio              : "Physicist researching from condensed matter theory to machine learning and data science."
   location         : "Brazil"
