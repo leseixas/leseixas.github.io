@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
+site_theme               : "air"                    # Options: "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Leandro Seixas"
 title_separator          : "-"
 name                     : &name "Leandro Seixas"
