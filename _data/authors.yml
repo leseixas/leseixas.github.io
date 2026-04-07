@@ -1,18 +1,9 @@
 # Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "https://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+Leandro Seixas Rocha:
+  name        : "Leandro Seixas Rocha"
+  uri         : "https://leseixas.github.io"
+  email       : "leandro.rocha@ilum.cnpem.br"
+  bio         : "Physicist researching from condensed matter theory to machine learning and data science."
+  avatar      : "leandro_seixas.jpg"
 
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
