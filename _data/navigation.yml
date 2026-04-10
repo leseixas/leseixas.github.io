@@ -29,5 +29,5 @@ main:
   - title: "People" 
     url: /people/
 
-  - title: "Skills"
-    url: /skills/
+  # - title: "Skills"
+  #   url: /skills/
