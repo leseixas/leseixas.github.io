@@ -57,17 +57,17 @@ author_profile: true
 
 * L. D. Germano, V. S. Marangoni, N. V. V. Mogili, L. Seixas, C. M. Maroneze, [Ultrasmall (<2 nm) Au@Pt Nanostructures: Tuning the Surface Electronic States for Electrocatalysis](https://leseixas.github.io/files/012.pdf). *ACS Appl. Mater. Interfaces* **11**, 5661 (2019).
 
-* A. P. Godoy, P. Ecorchard, H. Beneš, J. Tolasz, D. Smrzová, L. Seixas *et al.*, [Ultrasound exfoliation of graphite in biphasic liquid systems containing ionic liquids: a study on the conditions for obtaining large few-layers graphene](https://leseixas.github.io/files/011.pdf). *Ultrason. Sonochem.* **55**, 279-288 (2019).
+* A. P. Godoy, P. Ecorchard, H. Beneš, J. Tolasz, D. Smrzová, L. Seixas, J. J. Pedrotti, E. A. T. de Souza, O. A. El Seoud, R. K. Donato, [Ultrasound exfoliation of graphite in biphasic liquid systems containing ionic liquids: a study on the conditions for obtaining large few-layers graphene](https://leseixas.github.io/files/011.pdf). *Ultrason. Sonochem.* **55**, 279-288 (2019).
 
 2017
 ======
-* M. Perchacz, R. K. Donato, L. Seixas *et al.*, [Ionic Liquid-Silica Precursors via Solvent-Free Sol–Gel Process and Their Application in Epoxy-Amine Network: A Theoretical/Experimental Study](https://leseixas.github.io/files/010.pdf). *ACS Appl. Mater. Interfaces* **9**, 16474 (2017).
+* M. Perchacz, R. K. Donato, L. Seixas, A. Zhigunov, R. Konefał, M. Serkis-Rodzen, H. Beneš, [Ionic Liquid-Silica Precursors via Solvent-Free Sol–Gel Process and Their Application in Epoxy-Amine Network: A Theoretical/Experimental Study](https://leseixas.github.io/files/010.pdf). *ACS Appl. Mater. Interfaces* **9**, 16474 (2017).
 
 2016
 ======
 * L. Seixas, A. S. Rodin, A. Carvalho, A. H. Castro Neto, [Multiferroic Two-Dimensional Materials](https://leseixas.github.io/files/009.pdf). *Phys. Rev. Lett.* **116**, 206803 (2016).
 
-* S. P. Koenig, R. Doganov, L. Seixas *et al.*, [Electron doping of ultra-thin black phosphorus with Cu adatoms](https://leseixas.github.io/files/008.pdf). *Nano Lett.* **16**, 2145 (2016).
+* S. P. Koenig, R. Doganov, L. Seixas, A. Carvalho, J. Y. Tan, K. Watanabe, T. Taniguchi, N. Yakovlev, A. H. Castro Neto, and B. Özyilmaz, [Electron doping of ultra-thin black phosphorus with Cu adatoms](https://leseixas.github.io/files/008.pdf). *Nano Lett.* **16**, 2145 (2016).
 
 2015
 ======
