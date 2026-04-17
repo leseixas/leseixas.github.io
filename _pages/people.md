@@ -15,12 +15,18 @@ author_profile: true
 
 ## Master's students
 
-1. Rafael O. Figueiredo
-2. Victor Lima Sobottka
+1. Felipe Conceição dos Santos
+2. Rafael Oliveira de Figueiredo
+3. Victor Lima Sobottka
 
-## Undergraduate students
+## Undergraduate research project
 
-1. Armando S. de Rezende Neto
+1. Armando Sampaio de Rezende Neto
+2. Jonathas Costa da Silva
+
+## Undergraduate final course project
+
+1. Armando Sampaio de Rezende Neto
 2. Rafaela Zalli Cibella
 3. Cesar Lembo Barriviera
 4. Aprys Cristina Travassos Sarinho dos Santos Oliveira
@@ -28,4 +34,4 @@ author_profile: true
 6. André Ventura Piaggio dos Santos
 7. Patrícia Domingos Bracaldi
 8. Bruno Basile Storte
-9. Jonathas Costa da Silva
+
