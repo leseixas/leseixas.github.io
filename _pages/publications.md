@@ -33,7 +33,7 @@ author_profile: true
 ======
 * V. S. Marangoni, A. R. Cadore, H. B. Ribeiro, L. Hostert, C. J. S. de Matos, C. C. C. Silva, L. Seixas, and C. M. Maroneze, Long-Term Environmental Stability of Nitrogen-Healed Black Phosphorus, [Appl. Surf. Sci. **564**, 150450 (2021)](https://leseixas.github.io/files/022.pdf).
 
-* A. S. de Rezende Neto, and L. Seixas, [Towards a two-dimensional NbS<sub>2</sub>-based electrode for lithium-ion batteries](https://leseixas.github.io/files/021.pdf). *Int. J. Quantum Chem.* **121**, e26603 (2021).
+* A. S. de Rezende Neto, and L. Seixas, Towards a two-dimensional NbS<sub>2</sub>-based electrode for lithium-ion batteries, [Int. J. Quantum Chem. **121**, e26603 (2021)](https://leseixas.github.io/files/021.pdf).
 
 * M. Maldonado, M. L. da Silva Neto, P. G. Vianna, H. B. Ribeiro, C. B. de Araujo, C. J. S. de Matos, L. Seixas, A. M. Jawaid, R. Busch, A. J. Ritter, R. A. Vaia, and A. S. L. Gomes, Femtosecond nonlinear refraction of 2D semi-metallic redox exfoliated ZrTe<sub>2</sub> at 800 nm, [Appl. Phys. Lett. **118**, 011101 (2021)](https://leseixas.github.io/files/020.pdf).
 
