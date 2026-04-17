@@ -5,8 +5,7 @@ permalink: /funding/
 author_profile: true
 ---
 
-FAPESP
-=======
+# FAPESP
 
 * [Intelligible High-Entropy Materials: Developing Models, Data and Applications](https://bv.fapesp.br/pt/auxilios/111791/materiais-de-alta-entropia-inteligiveis-desenvolvendo-modelos-dados-e-aplicacoes/)
     - Original title (in portuguese): "Materiais de Alta Entropia Inteligíveis: Desenvolvendo Modelos, Dados e Aplicações"
@@ -21,8 +20,7 @@ FAPESP
     - Term: December 2025 - November 2030
 
 
-CNPq
-======
+# CNPq
 
 * Discovery and Design of 2D Piezoelectric Materials: A First-Principles Perspective
     - Original title (in portuguese): "Descoberta e Design de Materiais 2D Piezoelétricos: Uma Perspectiva de Primeiros Princípios"
@@ -55,14 +53,10 @@ CNPq
     - Term: December 2022 – December 2027
 
 
-MackPesquisa
-======
+# MackPesquisa
 
 * 2D Piezoelectric Materials for Mechanical Nanosensors
     - Original title (in portuguese): "Materiais 2D Piezoelétricos para Nanossensores Mecânicos"
     - Grant No.: 221018
     - Coordinator: Leandro Seixas Rocha
     - Term: February 2022 – July 2023 (Research Grant)
-
-
-
