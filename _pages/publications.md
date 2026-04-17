@@ -25,7 +25,7 @@ author_profile: true
 ======
 * H. Liu, W. C. Silva, L. S. G. de Sousa, A. Veiga, L. Seixas, K. Fujisawa, E. Kahn, T. Zhang, Z. Yu, K. Thompson, Y. Lei, C. J. S. de Matos, M. L. Rocco, M. Terrones, and D. Grasseschi, 3d Transition Metal Coordination on Monolayer MoS<sub>2</sub>: A Facile Doping Method to Functionalize Surfaces, [Nanoscale **14**, 10801-10815 (2022)](https://leseixas.github.io/files/025.pdf).
 
-* L. Seixas, Enhanced Linear Dichroism of Flattened-Edge Black Phosphorus Nanoribbons, [J. Phys.: Condens. Matter **34**,  225701 (2022)](https://leseixas.github.io/files/024.pdf).
+* L. Seixas, Enhanced Linear Dichroism of Flattened-Edge Black Phosphorus Nanoribbons, [J. Phys.: Condens. Matter **34**, 225701 (2022)](https://leseixas.github.io/files/024.pdf).
 
 * R. O. Figueiredo, and L. Seixas, Hydrogen-Evolution Reaction in Two-Dimensional PdS<sub>2</sub> by Phase and Defect Engineering, [Phys. Rev. Applied **17**, 034035 (2022)](https://leseixas.github.io/files/023.pdf).
 
@@ -51,7 +51,7 @@ author_profile: true
 
 2019
 ======
-* M. Perchacz, L. Matejka, R. Konefal, L. Seixas, S. Livi, J. Baudoux, H. Benes, and R. K. Donato, Self-catalysed coupling between Brønsted-acidic imidazolium salts and epoxy-based materials: a theoretical/experimental study, [ACS Sustainable Chem. Eng. **7**, 19050-19061 (2019)](https://leseixas.github.io/files/014.pdf).
+* M. Perchacz, L. Matejka, R. Konefał, L. Seixas, S. Livi, J. Baudoux, H. Beneš, and R. K. Donato, Self-catalysed coupling between Brønsted-acidic imidazolium salts and epoxy-based materials: a theoretical/experimental study, [ACS Sustainable Chem. Eng. **7**, 19050-19061 (2019)](https://leseixas.github.io/files/014.pdf).
 
 * H. B. Ribeiro, S. L. L. M. Ramos, L. Seixas, C. J. S. de Matos, and M. A. Pimenta, Edge phonons in layered orthorhombic GeS and GeSe monochalcogenides, [Phys. Rev B **100**, 094301 (2019)](https://leseixas.github.io/files/013.pdf).
 
@@ -72,7 +72,6 @@ author_profile: true
 2015
 ======
 * L. Seixas, D. West, A. Fazzio, and S. B. Zhang, Vertical twinning of the Dirac cone at the interface between topological insulators and semiconductors, [Nat. Commun. **6**, 7630 (2015)](https://leseixas.github.io/files/007.pdf).
-
 
 * L. Seixas, A. Carvalho, and A. H. Castro Neto, Atomically thin dilute magnetism in Co-doped phosphorene, [Phys. Rev. B **91**, 155138 (2015)](https://leseixas.github.io/files/006.pdf).
 
