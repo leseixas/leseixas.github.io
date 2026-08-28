@@ -1,0 +1,327 @@
+/* ==========================================================================
+   CUSTOM COMPONENTS
+   Small, theme-aware building blocks used by the Home, CV, Portfolio,
+   Publications and Contact pages. Everything below is expressed with the
+   --global-* custom properties, so light and dark themes both work.
+   ========================================================================== */
+
+/*
+   Muted text
+   The themes' own --global-text-color-light is a darkened primary colour,
+   which drops to unreadable contrast on the dark background. These tokens are
+   the page text colour at reduced strength instead, so secondary text stays
+   legible in both themes.
+   ========================================================================== */
+
+:root {
+  --muted-text-color   : rgba(34, 40, 49, 0.66);
+  --muted-border-color : rgba(34, 40, 49, 0.22);
+}
+
+html[data-theme="dark"] {
+  --muted-text-color   : rgba(234, 234, 234, 0.62);
+  --muted-border-color : rgba(234, 234, 234, 0.26);
+}
+
+/*
+   Page lede — the sentence or two under a page title
+   ========================================================================== */
+
+.lede {
+  font-size: 1.05em;
+  line-height: 1.6;
+  color: var(--global-text-color);
+  max-width: 46em;
+  margin-bottom: 1.5em;
+}
+
+/*
+   Role line — "Physicist · Professor · Full Stack Developer · AI Engineer"
+   ========================================================================== */
+
+.roles {
+  font-family: $sans-serif;
+  font-size: 0.8em;
+  font-weight: bold;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--muted-text-color);
+  margin: -0.5em 0 1.25em;
+}
+
+/*
+   Pills — short inline labels for tags, languages, status
+   ========================================================================== */
+
+.pill {
+  display: inline-block;
+  margin: 0 0.35em 0.4em 0;
+  padding: 0.15em 0.6em;
+  font-family: $sans-serif;
+  font-size: 0.72em;
+  line-height: 1.6;
+  white-space: nowrap;
+  color: var(--muted-text-color);
+  border: 1px solid var(--muted-border-color);
+  border-radius: 999px;
+}
+
+.pill--accent {
+  color: var(--global-bg-color);
+  background-color: var(--global-base-color);
+  border-color: var(--global-base-color);
+}
+
+/*
+   Stat grid — headline numbers (papers, first-author count, years active)
+   ========================================================================== */
+
+.stat-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(11rem, 1fr));
+  gap: 0.75em;
+  margin: 1.5em 0 2em;
+}
+
+.stat {
+  padding: 0.9em 1em;
+  border: 1px solid var(--muted-border-color);
+  border-radius: $border-radius;
+}
+
+.stat__value {
+  display: block;
+  font-family: $sans-serif;
+  font-size: 1.5em;
+  font-weight: bold;
+  line-height: 1.2;
+  color: var(--global-text-color);
+}
+
+.stat__label {
+  display: block;
+  margin-top: 0.2em;
+  font-family: $sans-serif;
+  font-size: 0.75em;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--muted-text-color);
+}
+
+.stat a {
+  text-decoration: none;
+}
+
+/*
+   Card grid — projects, roles, anything that reads as a tile
+   ========================================================================== */
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(17rem, 1fr));
+  gap: 1em;
+  margin: 1.5em 0 2em;
+}
+
+.card {
+  display: flex;
+  flex-direction: column;
+  padding: 1.1em 1.2em;
+  border: 1px solid var(--muted-border-color);
+  border-radius: $border-radius;
+}
+
+.card__title {
+  margin: 0;
+  font-family: $sans-serif;
+  font-size: 1.1em;
+  font-weight: bold;
+  color: var(--global-text-color);
+}
+
+.card__title a {
+  text-decoration: none;
+}
+
+.card__tagline {
+  margin: 0.15em 0 0.7em;
+  font-size: 0.9em;
+  font-style: italic;
+  color: var(--muted-text-color);
+}
+
+.card__body {
+  flex: 1 1 auto;
+  margin: 0 0 0.8em;
+  font-size: 0.9em;
+  line-height: 1.55;
+}
+
+.card__body p {
+  margin: 0 0 0.6em;
+  font-size: inherit;
+}
+
+.card__body ul {
+  margin: 0 0 0.6em;
+  padding-left: 1.1em;
+  font-size: inherit;
+}
+
+.card__meta {
+  margin-bottom: 0.5em;
+}
+
+.card__links {
+  font-family: $sans-serif;
+  font-size: 0.8em;
+}
+
+.card__links a {
+  margin-right: 0.9em;
+  white-space: nowrap;
+}
+
+/*
+   CV entries — a period column beside the body
+   ========================================================================== */
+
+.cv-list {
+  margin: 0 0 2em;
+}
+
+.cv-entry {
+  display: grid;
+  grid-template-columns: 11rem 1fr;
+  gap: 0 1.2em;
+  padding: 0.9em 0;
+  border-top: 1px solid var(--muted-border-color);
+}
+
+.cv-entry:last-child {
+  border-bottom: 1px solid var(--muted-border-color);
+}
+
+.cv-entry__period {
+  font-family: $sans-serif;
+  font-size: 0.8em;
+  line-height: 1.7;
+  color: var(--muted-text-color);
+}
+
+.cv-entry__role {
+  margin: 0;
+  font-family: $sans-serif;
+  font-size: 1em;
+  font-weight: bold;
+  color: var(--global-text-color);
+}
+
+.cv-entry__where {
+  margin: 0.1em 0 0;
+  font-size: 0.92em;
+  color: var(--global-text-color);
+}
+
+.cv-entry__detail {
+  margin: 0.25em 0 0;
+  font-size: 0.85em;
+  line-height: 1.55;
+  color: var(--muted-text-color);
+}
+
+@media screen and (max-width: 37.5em) {
+  .cv-entry {
+    grid-template-columns: 1fr;
+    gap: 0.2em;
+  }
+}
+
+/*
+   Publication list
+   ========================================================================== */
+
+.pub-year {
+  display: flex;
+  align-items: baseline;
+  gap: 0.6em;
+  margin: 1.8em 0 0.6em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid var(--muted-border-color);
+}
+
+.pub-year h2 {
+  margin: 0;
+  font-size: 1.3em;
+}
+
+.pub-year .pub-year__count {
+  font-family: $sans-serif;
+  font-size: 0.75em;
+  color: var(--muted-text-color);
+}
+
+.pub {
+  padding: 0.7em 0;
+}
+
+.pub__title {
+  margin: 0;
+  font-size: 1em;
+  font-weight: bold;
+  line-height: 1.4;
+}
+
+.pub__title a {
+  text-decoration: none;
+}
+
+.pub__authors {
+  margin: 0.2em 0 0;
+  font-size: 0.85em;
+  line-height: 1.5;
+  color: var(--muted-text-color);
+}
+
+.pub__venue {
+  margin: 0.15em 0 0;
+  font-size: 0.88em;
+}
+
+.pub__links {
+  margin: 0.35em 0 0;
+  font-family: $sans-serif;
+  font-size: 0.78em;
+}
+
+.pub__links a {
+  margin-right: 0.9em;
+  white-space: nowrap;
+}
+
+/*
+   Definition-style lists (contact details, languages)
+   ========================================================================== */
+
+.kv {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(13rem, 1fr));
+  gap: 0.8em 1.2em;
+  margin: 1.2em 0 2em;
+}
+
+.kv__label {
+  display: block;
+  margin-bottom: 0.15em;
+  font-family: $sans-serif;
+  font-size: 0.72em;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  color: var(--muted-text-color);
+}
+
+.kv__value {
+  display: block;
+  font-size: 0.95em;
+  word-break: break-word;
+}

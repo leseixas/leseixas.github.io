@@ -4,30 +4,22 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 #
-# NOTE that only one of the CV options should be selected, the first is for the
-#      Markdown formatted page while the second is generated using JSON.
+# This mirrors the section structure of https://seixas.dev. The former
+# /experience/, /education/, /teaching/, /funding/, /talks/ and /people/ pages
+# are now sections of /cv/ and redirect there.
 
 main:
-  - title: "Experience"
-    url: /experience/
+  - title: "Home"
+    url: /
 
-  - title: "Education"
-    url: /education/
+  - title: "CV"
+    url: /cv/
+
+  - title: "Portfolio"
+    url: /portfolio/
 
   - title: "Publications"
     url: /publications/
 
-  - title: "Teaching"
-    url: /teaching/  
-
-  - title: "Talks"
-    url: /talks/  
-    
-  - title: "Funding"
-    url: /funding/
-       
-  - title: "People" 
-    url: /people/
-
-  # - title: "Skills"
-  #   url: /skills/
+  - title: "Contact"
+    url: /contact/

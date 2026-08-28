@@ -12,7 +12,7 @@ site_theme               : "air"                    # Options: "default", "air",
 title                    : "Leandro Seixas"
 title_separator          : "-"
 name                     : &name "Leandro Seixas"
-description              : &description "Leandro Seixas' academic portfolio"
+description              : &description "Computational materials scientist working on ab initio simulations and machine learning for atomistic modelling, and on the software that runs them."
 url                      : https://leseixas.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "leseixas/leseixas.github.io"
@@ -25,10 +25,10 @@ author:
   avatar           : "leandro_seixas.jpg"
   name             : "Leandro Seixas"
   pronouns         : "he/him"
-  bio              : "From Theoretical Physics to Machine Learning and Data Science."
-  location         : "Brazil"
+  bio              : "Physicist · Professor · Full Stack Developer · AI Engineer"
+  location         : "Campinas, SP, Brazil"
   employer         : "Ilum, CNPEM"
-  uri              : # URL
+  uri              : "https://seixas.dev"    # personal/professional site
   email            : "leandro.rocha@ilum.cnpem.br" 
 
   # Academic websites
@@ -49,9 +49,9 @@ author:
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
   manuscripts:
-    title: 'Journal Articles'    
+    title: 'Journal articles'
   popular_science:
-    title: 'Popular Science'
+    title: 'Popular science'
   
 
 # Site Settings
@@ -106,8 +106,8 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 :  # Social media default site image
-og_description           :  # Social media default site image description
+og_image                 : "/images/leandro_seixas.jpg"  # Social media default site image
+og_description           : *description  # Social media default site image description
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -118,7 +118,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  false # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
