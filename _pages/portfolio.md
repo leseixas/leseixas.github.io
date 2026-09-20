@@ -43,18 +43,18 @@ redirect_from:
   </div>
 
   <div class="card">
-    <h3 class="card__title"><a href="https://carcara.seixas.dev">Carcará</a></h3>
+    <h3 class="card__title"><a href="https://mandacaru.seixas.dev">Mandacaru</a></h3>
     <p class="card__tagline">Fermionic quantum simulation, one API.</p>
     <div class="card__body">
       <p>A lightweight Python framework for fermionic quantum simulation based on variational quantum algorithms. From a molecular or periodic geometry, it builds real-space grids, evaluates the one- and two-body integrals, maps the Hamiltonian to qubits, and solves it variationally — through a single ASE calculator that runs unchanged on IBM Qiskit, Amazon Braket and Google Cirq.</p>
       <ul>
-        <li>VQE, ADAPT-VQE, excited states and a stochastic solver (VASQE), sharing one driver</li>
+        <li>VQE, ADAPT-VQE and excited states — deflation and subspace search — sharing one driver</li>
         <li>Localized basis sets and pseudopotentials generated from scratch, not tabulated</li>
         <li>Cross-backend agreement to 1.3×10⁻⁷ Ha, validated on real quantum hardware</li>
       </ul>
     </div>
     <div class="card__meta"><span class="pill">Python</span><span class="pill">Quantum computing</span><span class="pill">In development</span></div>
-    <div class="card__links"><a href="https://carcara.seixas.dev">Website</a><a href="https://carcara.readthedocs.io/">Manual</a><a href="https://pypi.org/project/carcara/">PyPI</a><a href="https://github.com/seixas-research/carcara">Source</a></div>
+    <div class="card__links"><a href="https://mandacaru.seixas.dev">Website</a><a href="https://mandacaru.readthedocs.io/">Manual</a><a href="https://pypi.org/project/mandacaru/">PyPI</a><a href="https://github.com/seixas-research/mandacaru">Source</a></div>
   </div>
 </div>
 

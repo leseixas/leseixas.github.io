@@ -48,11 +48,11 @@ Software that puts computational materials science in more hands.
     <div class="card__links"><a href="https://calango.seixas.dev">calango.seixas.dev</a><a href="https://github.com/seixas-research/calango">Source</a></div>
   </div>
   <div class="card">
-    <h3 class="card__title"><a href="https://carcara.seixas.dev">Carcará</a></h3>
+    <h3 class="card__title"><a href="https://mandacaru.seixas.dev">Mandacaru</a></h3>
     <p class="card__tagline">Fermionic quantum simulation, one API.</p>
     <div class="card__body">Solves the fermionic Hamiltonian of a molecule or crystal with VQE and ADAPT-VQE, running the same script on a simulator or on real IBM, Amazon Braket and Google quantum hardware.</div>
     <div class="card__meta"><span class="pill">Python</span><span class="pill">In development</span></div>
-    <div class="card__links"><a href="https://carcara.seixas.dev">carcara.seixas.dev</a><a href="https://github.com/seixas-research/carcara">Source</a></div>
+    <div class="card__links"><a href="https://mandacaru.seixas.dev">mandacaru.seixas.dev</a><a href="https://github.com/seixas-research/mandacaru">Source</a></div>
   </div>
 </div>
 
