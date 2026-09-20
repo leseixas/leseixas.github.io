@@ -28,7 +28,7 @@ redirect_from:
   </div>
 
   <div class="card">
-    <h3 class="card__title"><a href="https://calango.seixas.dev">Calango</a></h3>
+    <h3 class="card__title"><a href="https://calango-studio.seixas.dev">Calango Studio</a></h3>
     <p class="card__tagline">Visual atomistic modeling.</p>
     <div class="card__body">
       <p>A desktop application that brings three things into one window: an interactive viewer for building, editing and inspecting atomic structures; a calculator-agnostic environment for setting up and running simulations; and viewers that turn the output back into figures you can read.</p>
@@ -39,7 +39,7 @@ redirect_from:
       </ul>
     </div>
     <div class="card__meta"><span class="pill">C++</span><span class="pill">Qt 6</span><span class="pill">In development</span></div>
-    <div class="card__links"><a href="https://calango.seixas.dev">Website</a><a href="https://calango.readthedocs.io/">Manual</a><a href="https://github.com/seixas-research/calango">Source</a></div>
+    <div class="card__links"><a href="https://calango-studio.seixas.dev">Website</a><a href="https://calango.readthedocs.io/">Manual</a><a href="https://github.com/seixas-research/calango-studio">Source</a></div>
   </div>
 
   <div class="card">

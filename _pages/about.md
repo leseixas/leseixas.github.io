@@ -41,11 +41,11 @@ Software that puts computational materials science in more hands.
     <div class="card__links"><a href="https://poraque.seixas.dev">poraque.seixas.dev</a><a href="https://github.com/seixas-research/poraque">Source</a></div>
   </div>
   <div class="card">
-    <h3 class="card__title"><a href="https://calango.seixas.dev">Calango</a></h3>
+    <h3 class="card__title"><a href="https://calango-studio.seixas.dev">Calango Studio</a></h3>
     <p class="card__tagline">Visual atomistic modeling.</p>
     <div class="card__body">Builds, edits and inspects atomic structures visually, with a C++ core that stays responsive on systems large enough to stall a typical viewer.</div>
     <div class="card__meta"><span class="pill">C++</span><span class="pill">In development</span></div>
-    <div class="card__links"><a href="https://calango.seixas.dev">calango.seixas.dev</a><a href="https://github.com/seixas-research/calango">Source</a></div>
+    <div class="card__links"><a href="https://calango-studio.seixas.dev">calango-studio.seixas.dev</a><a href="https://github.com/seixas-research/calango-studio">Source</a></div>
   </div>
   <div class="card">
     <h3 class="card__title"><a href="https://mandacaru.seixas.dev">Mandacaru</a></h3>
